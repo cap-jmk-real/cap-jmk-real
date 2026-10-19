@@ -2,9 +2,9 @@
 
 AI Manager at **WITTE Projektmanagement** in Berlin since 09/2026. Chemist turned applied AI engineer. I build production AI with GDPR and EU AI Act guardrails.
 
-## sail.black
+## Projects
 
-My small studio for AI products. Librebase is a small PostgreSQL backend that AI agents find, sign into and run for you, with a person approving access once in the browser. Taktwerk, sail.black's AI agent service, is being built on it.
+Librebase is a small PostgreSQL backend that AI agents find, sign into and run for you, with a person approving access once in the browser. Taktwerk, an AI agent service, is being built on it.
 
 - **[Librebase](https://librebase.xyz)**: the Postgres backend agents run for you. Code: [librebase-official/librebase](https://github.com/librebase-official/librebase)
 - **[Taktwerk](https://taktwerk.si)**: AI agent workers, built on Librebase.
