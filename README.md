@@ -22,4 +22,4 @@ Graph neural networks for chemistry (CARATE), the CACHE #1 challenge, and most r
 
 ## Elsewhere
 
-[julianmkleber.com](https://julianmkleber.com) · [LinkedIn](https://www.linkedin.com/in/julian-manuel-kleber/) · [X @capjmk](https://x.com/capjmk) · julian.kleber@sail.black
+[julianmkleber.com](https://julianmkleber.com) · [LinkedIn](https://www.linkedin.com/in/julian-manuel-kleber/) · [X @capjmk](https://x.com/capjmk) · julian.m.kleber@gmail.com
