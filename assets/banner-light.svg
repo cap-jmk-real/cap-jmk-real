@@ -1,9 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-<rect width="1200" height="300" rx="18" fill="#ffffff"/>
-<g stroke="#FFB100" stroke-opacity=".35" fill="none" stroke-width="2">
-<polygon points="980,70 1032,100 1032,160 980,190 928,160 928,100"/><polygon points="1084,130 1136,160 1136,220 1084,250 1032,220 1032,160"/><polygon points="1084,10 1136,40 1136,100 1084,130 1032,100 1032,40"/></g>
-<rect x="60" y="70" width="8" height="160" fill="#FFB100"/>
-<text x="95" y="135" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="800" fill="#1f2328">Julian M. Kleber</text>
-<text x="97" y="182" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="26" fill="#59636e">Chemist · SI engineer · founder of sail.black</text>
-<text x="97" y="222" font-family="JetBrains Mono,Consolas,monospace" font-size="18" fill="#FFB100">Librebase · Taktwerk · Agentron · CARATE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420" role="img" aria-label="Julian M. Kleber, sail.black">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f3f6fa"/></linearGradient>
+<radialGradient id="h"><stop offset="0" stop-color="#FFB100" stop-opacity=".35"/><stop offset="1" stop-color="#FFB100" stop-opacity="0"/></radialGradient></defs>
+<style>
+.b{stroke-dasharray:6 10;animation:p 2.4s linear infinite}
+.t{transform-origin:0 0;animation:ty 3.5s steps(28) .6s both}
+@keyframes m5{0%,25%{transform:translate(0,0)}75%,100%{transform:translate(-91px,35px)}}.n5{animation:m5 9s ease-in-out infinite alternate}
+@keyframes m4{0%,25%{transform:translate(0,0)}75%,100%{transform:translate(-140px,145px)}}.n4{animation:m4 9s ease-in-out infinite alternate}
+@keyframes m3{0%,25%{transform:translate(0,0)}75%,100%{transform:translate(71px,130px)}}.n3{animation:m3 9s ease-in-out infinite alternate}
+@keyframes m2{0%,25%{transform:translate(0,0)}75%,100%{transform:translate(196px,-5px)}}.n2{animation:m2 9s ease-in-out infinite alternate}
+@keyframes m1{0%,25%{transform:translate(0,0)}75%,100%{transform:translate(100px,-150px)}}.n1{animation:m1 9s ease-in-out infinite alternate}
+@keyframes m0{0%,25%{transform:translate(0,0)}75%,100%{transform:translate(-191px,-105px)}}.n0{animation:m0 9s ease-in-out infinite alternate}
+.c{animation:bl 1s step-end infinite}
+.f{animation:fi 1.2s ease-out both}
+@keyframes p{to{stroke-dashoffset:-32}}
+@keyframes ty{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes bl{50%{opacity:0}}
+@keyframes fi{from{opacity:0;transform:translateY(8px)}to{opacity:1}}
+@keyframes fo{0%,25%{opacity:1}75%,100%{opacity:0}}@keyframes fo2{0%,25%{opacity:0}75%,100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.t{transform:none}}
+</style>
+<rect width="1000" height="420" fill="url(#g)"/>
+<circle cx="830" cy="300" r="190" fill="url(#h)"/>
+<g class="mol" style="animation:fo 9s ease-in-out infinite alternate">
+<line x1="891" y1="335" x2="830" y2="370" stroke="#57606a" stroke-width="3"/>
+<line x1="830" y1="370" x2="769" y2="335" stroke="#57606a" stroke-width="3"/>
+<line x1="769" y1="335" x2="769" y2="265" stroke="#57606a" stroke-width="3"/>
+<line x1="769" y1="265" x2="830" y2="230" stroke="#57606a" stroke-width="3"/>
+<line x1="830" y1="230" x2="891" y2="265" stroke="#57606a" stroke-width="3"/>
+<line x1="891" y1="265" x2="891" y2="335" stroke="#57606a" stroke-width="3"/>
+<circle cx="830" cy="300" r="36" fill="none" stroke="#57606a" stroke-width="2" stroke-dasharray="4 6"/>
+</g>
+<g style="animation:fo2 9s ease-in-out infinite alternate">
+<line class="b" x1="700" y1="230" x2="800" y2="300" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="930" y1="220" x2="800" y2="300" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="965" y1="330" x2="800" y2="300" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="840" y1="395" x2="800" y2="300" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="690" y1="375" x2="800" y2="300" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="700" y1="230" x2="930" y2="220" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="965" y1="330" x2="840" y2="395" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="840" y1="395" x2="690" y2="375" stroke="#0969da" stroke-width="2.5"/>
+<line class="b" x1="930" y1="220" x2="965" y2="330" stroke="#0969da" stroke-width="2.5"/>
+</g>
+<g class="n0"><circle cx="891" cy="335" r="9" fill="#FFB100"/></g>
+<g class="n1"><circle cx="830" cy="370" r="9" fill="#0969da"/></g>
+<g class="n2"><circle cx="769" cy="335" r="9" fill="#0969da"/></g>
+<g class="n3"><circle cx="769" cy="265" r="9" fill="#0969da"/></g>
+<g class="n4"><circle cx="830" cy="230" r="9" fill="#0969da"/></g>
+<g class="n5"><circle cx="891" cy="265" r="11" fill="#FFB100"/></g>
+<text x="50" y="120" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="92" font-weight="800" fill="#1f2328" class="f">Julian M. Kleber</text>
+<text x="54" y="205" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="60" font-weight="700" fill="#b26a00" class="f" style="animation-delay:.3s">sail.black</text>
+<clipPath id="k"><rect class="t" x="54" y="270" width="560" height="110"/></clipPath>
+<g clip-path="url(#k)" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="46" fill="#57606a"><text x="54" y="312">&gt; chemist</text><text x="54" y="368">&gt; SI engineer_</text></g>
 </svg>

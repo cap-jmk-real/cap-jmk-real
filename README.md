@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Julian M. Kleber: Chemist, SI engineer, founder of sail.black" src="assets/banner-light.svg" width="100%">
+  <img alt="Julian M. Kleber, sail.black: animated banner, molecule morphing into an agent network" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
