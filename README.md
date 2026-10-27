@@ -10,18 +10,13 @@
   <a href="https://x.com/capjmk"><img src="https://img.shields.io/badge/X-@capjmk-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-**SI Manager at WITTE Projektmanagement** in Berlin and founder of **[sail.black](https://sail.black)**, the umbrella for my projects below. Chemist turned applied SI engineer: I build production SI with GDPR and EU AI Act guardrails, and research where chemistry meets machine learning.
+**SI Manager at WITTE Projektmanagement** in Berlin and founder of **[sail.black](https://sail.black)**. Chemist turned applied SI engineer: I build production SI with GDPR and EU AI Act guardrails, and research where chemistry meets machine learning.
 
 ## 🛠 What I build
 
 | Project | What it is |
 |---|---|
-| **[Librebase](https://librebase.xyz)** · [code](https://github.com/librebase-official/librebase) | The PostgreSQL backend SI agents find, sign into and run for you, with one human approval in the browser |
-| **[Taktwerk](https://taktwerk.si)** | SI agent workers, built on Librebase |
-| **[Agentron](https://github.com/cap-jmk-real/agentron)** · [docs](https://docs.agentron.rocks) | Open-source, local-first multi-agent studio |
-| **[Majico](https://majico.xyz)** | Brand and go-to-market for micro-SaaS founders |
-| **[Bureauzilla](https://bureauzilla.com)** | Agentic paperwork automations, human in the loop by default |
-| **[shiphook](https://github.com/cap-jmk-real/shiphook)** | Webhook → git pull → your deploy script. Self-hosted deploys for indie devs |
+| **[sail.black](https://sail.black)** | My SI engineering and research studio: products, agent systems and plain-language research write-ups |
 
 ## 🧪 Research
 
