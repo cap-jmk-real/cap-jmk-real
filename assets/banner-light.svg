@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" rx="18" fill="#ffffff"/>
+<g stroke="#FFB100" stroke-opacity=".35" fill="none" stroke-width="2">
+<polygon points="980,70 1032,100 1032,160 980,190 928,160 928,100"/><polygon points="1084,130 1136,160 1136,220 1084,250 1032,220 1032,160"/><polygon points="1084,10 1136,40 1136,100 1084,130 1032,100 1032,40"/></g>
+<rect x="60" y="70" width="8" height="160" fill="#FFB100"/>
+<text x="95" y="135" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="800" fill="#1f2328">Julian M. Kleber</text>
+<text x="97" y="182" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="26" fill="#59636e">Chemist · SI engineer · founder of sail.black</text>
+<text x="97" y="222" font-family="JetBrains Mono,Consolas,monospace" font-size="18" fill="#FFB100">Librebase · Taktwerk · Agentron · CARATE</text>
+</svg>
