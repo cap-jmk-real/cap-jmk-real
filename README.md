@@ -1,25 +1,38 @@
-# Hi, I'm Julian M. Kleber
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Julian M. Kleber: Chemist, SI engineer, founder of sail.black" src="assets/banner-light.svg" width="100%">
+</picture>
 
-AI Manager at **WITTE Projektmanagement** in Berlin since 09/2026. Chemist turned applied AI engineer. I build production AI with GDPR and EU AI Act guardrails.
+<p align="center">
+  <a href="https://julianmkleber.com"><img src="https://img.shields.io/badge/julianmkleber.com-FFB100?style=flat-square&logoColor=black" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/julian-manuel-kleber/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0000-0001-5518-0932"><img src="https://img.shields.io/badge/ORCID-0000--0001--5518--0932-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://x.com/capjmk"><img src="https://img.shields.io/badge/X-@capjmk-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+</p>
 
-## Projects
+**SI Manager at WITTE Projektmanagement** in Berlin. Chemist turned applied SI engineer: I build production SI with GDPR and EU AI Act guardrails, and research where chemistry meets machine learning.
 
-Librebase is a small PostgreSQL backend that AI agents find, sign into and run for you, with a person approving access once in the browser. Taktwerk, an AI agent service, is being built on it.
+## 🛠 What I build
 
-- **[Librebase](https://librebase.xyz)**: the Postgres backend agents run for you. Code: [librebase-official/librebase](https://github.com/librebase-official/librebase)
-- **[Taktwerk](https://taktwerk.si)**: AI agent workers, built on Librebase.
-- **[Agentron](https://github.com/cap-jmk-real/agentron)**: open-source, local-first multi-agent studio ([docs](https://docs.agentron.rocks))
-- **[Majico](https://majico.xyz)**: brand and go-to-market for micro-SaaS founders
-- **[Bureauzilla](https://bureauzilla.com)**: agentic paperwork automations, human in the loop by default
+| Project | What it is |
+|---|---|
+| **[Librebase](https://librebase.xyz)** · [code](https://github.com/librebase-official/librebase) | The PostgreSQL backend SI agents find, sign into and run for you, with one human approval in the browser |
+| **[Taktwerk](https://taktwerk.si)** | SI agent workers, built on Librebase |
+| **[Agentron](https://github.com/cap-jmk-real/agentron)** · [docs](https://docs.agentron.rocks) | Open-source, local-first multi-agent studio |
+| **[Majico](https://majico.xyz)** | Brand and go-to-market for micro-SaaS founders |
+| **[Bureauzilla](https://bureauzilla.com)** | Agentic paperwork automations, human in the loop by default |
+| **[shiphook](https://github.com/cap-jmk-real/shiphook)** | Webhook → git pull → your deploy script. Self-hosted deploys for indie devs |
 
-## Tools I maintain
+## 🧪 Research
 
-- **[shiphook](https://github.com/cap-jmk-real/shiphook)**: webhook → git pull → your deploy script. Self-hosted deploys for indie devs.
+- **Bio-inspired proton relay** (2026, preprint) · [repo & PDF](https://github.com/cap-jmk-launchpad/bioinspired-proton-relay-preprint)
+- **Wavetable seam repair / DenoiseOpt** (2026) · [aiXiv](https://aixiv.science/abs/aixiv.260719.000003)
+- **CACHE #1: hit finding for a Parkinson's disease associated protein** (J. Chem. Inf. Model., 2024) · [doi:10.1021/acs.jcim.4c01267](https://doi.org/10.1021/acs.jcim.4c01267)
+- **Fluorine** (ChemRxiv, 2022) · [doi:10.26434/chemrxiv-2022-xlsjn](https://doi.org/10.26434/chemrxiv-2022-xlsjn)
+- **CARATE**: graph neural networks for chemistry (2022)
 
-## Research
+Full list on [ORCID](https://orcid.org/0000-0001-5518-0932). Plain-language write-ups on [sail.black](https://sail.black).
 
-Graph neural networks for chemistry (CARATE), the CACHE #1 challenge, and most recently DenoiseOpt (wavetable seam repair). Publications are on [ORCID](https://orcid.org/0000-0001-5518-0932).
+## 📫 Contact
 
-## Elsewhere
-
-[julianmkleber.com](https://julianmkleber.com) · [LinkedIn](https://www.linkedin.com/in/julian-manuel-kleber/) · [X @capjmk](https://x.com/capjmk) · julian.m.kleber@gmail.com
+[julianmkleber.com](https://julianmkleber.com) · julian.m.kleber@gmail.com
