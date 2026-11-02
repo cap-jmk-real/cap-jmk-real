@@ -21,7 +21,7 @@
 ## 🧪 Research
 
 - **Dual-System Graph Neural Cellular Automata for Autonomous Tool Dispatch and Schema Pruning** (2026, preprint) · [aiXiv](https://aixiv.science/abs/aixiv.261101.000002)
-- **Provable agent governance / grant attenuation for SI agents** (2026, draft) · [repo](https://github.com/cap-jmk-launchpad/provable-agent-governance)
+- **Provable Governance for Multi-Agent Systems: A Position Paper on Identity, Consent, Containment and Halting** (2026, draft) · [repo](https://github.com/cap-jmk-launchpad/provable-agent-governance)
 - **Bio-inspired proton relay** (2026, preprint) · [repo & PDF](https://github.com/cap-jmk-launchpad/bioinspired-proton-relay-preprint)
 - **Wavetable seam repair / DenoiseOpt** (2026) · [aiXiv](https://aixiv.science/abs/aixiv.260719.000003)
 - **CACHE #1: hit finding for a Parkinson's disease associated protein** (J. Chem. Inf. Model., 2024) · [doi:10.1021/acs.jcim.4c01267](https://doi.org/10.1021/acs.jcim.4c01267)
